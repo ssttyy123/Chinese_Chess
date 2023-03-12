@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/move.wav</file>
+        <file>Icon/chinese_chess.ico</file>
+        <file>sound/victory.wav</file>
+    </qresource>
+</RCC>
